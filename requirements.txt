@@ -3,3 +3,7 @@ pandas
 chromadb
 sentence-transformers
 openai
+torch
+numpy
+tqdm
+
